@@ -1,0 +1,57 @@
+.sermhero {
+  background-color: var(--bg-color);
+
+  &--reverse {
+    padding: 1.5rem 0;
+    .sermhero__img {
+      order: -1;
+    }
+  }
+
+  &--dark {
+    padding: 2rem 0;
+    background-color: #303538;
+    color: #fff;
+  }
+
+  &__grid {
+    min-height: 390px;
+    display: grid;
+    gap: 90px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  &__text {
+    align-self: center;
+  }
+
+  &__img {
+    background-repeat: no-repeat;
+    background-position: 50%;
+  }
+
+  &__description {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 26px;
+  }
+
+  .sermbtn {
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}
+
+@include tablet {
+  .sermhero {
+    &__grid {
+      min-height: 290px;
+      grid-template-columns: 1fr;
+    }
+
+    &__img {
+      display: none;
+    }
+  }
+}

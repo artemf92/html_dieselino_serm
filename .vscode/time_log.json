@@ -1,0 +1,5310 @@
+{
+  "html_dieselino_serm": {
+    "src/partials/head.html.git": [
+      {
+        "date": "2025-04-03T13:45:48.972Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-03T13:45:55.503Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T13:46:10.010Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T13:46:44.389Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-04-03T13:50:44.369Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 98
+      }
+    ],
+    "src/scss/_settings.scss.git": [
+      {
+        "date": "2025-04-03T13:47:14.686Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T13:48:17.491Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2025-04-03T14:22:17.177Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T15:37:18.561Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T15:37:30.870Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T15:37:37.610Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:37:42.845Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:37:47.675Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:37:50.558Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T15:37:55.211Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:38:01.661Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:38:25.886Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2025-04-03T15:38:39.843Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T15:38:46.321Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:38:58.352Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T15:39:26.095Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-03T15:39:27.233Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T15:39:42.774Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:39:55.473Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T15:40:03.767Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:40:11.825Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:40:38.468Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-03T15:41:10.034Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-03T15:41:17.211Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:41:25.069Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:41:52.796Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-03T15:42:53.365Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-04-03T15:43:58.376Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T07:00:40.945Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T07:00:43.004Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-04T07:00:52.366Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T07:02:22.044Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 59
+      },
+      {
+        "date": "2025-04-04T07:03:14.659Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2025-04-04T07:04:50.074Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 95
+      },
+      {
+        "date": "2025-04-04T10:09:26.152Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-04T10:09:49.176Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-04T10:09:53.602Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T10:10:05.020Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T10:10:21.872Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T14:07:53.227Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-04T14:08:00.270Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T14:08:51.499Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2025-04-04T14:09:22.087Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 31
+      }
+    ],
+    "src/index.html.git": [
+      {
+        "date": "2025-04-03T13:52:47.244Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-03T13:52:51.452Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T13:53:19.064Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-03T13:53:35.336Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-03T13:54:38.455Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2025-04-03T13:55:51.362Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-04-03T13:56:09.499Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-04-03T13:56:30.605Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-03T13:56:39.504Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:00:29.451Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:00:31.370Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:07:14.620Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:10:56.437Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:11:15.447Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-03T14:11:18.349Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T14:11:32.270Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:11:35.729Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T14:11:48.858Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:12:54.414Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2025-04-03T14:12:59.295Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:13:02.902Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:13:06.159Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T14:13:09.713Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:13:11.786Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:13:15.326Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:13:23.717Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T14:13:41.458Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-04-03T14:13:53.511Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T14:15:06.441Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 73
+      },
+      {
+        "date": "2025-04-03T14:15:11.143Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:15:15.585Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:15:17.661Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:15:21.527Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:15:33.664Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T14:16:15.528Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-04-03T14:17:08.557Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2025-04-03T14:17:33.870Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-03T14:17:46.955Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:22:02.991Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T14:27:56.360Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-03T14:28:08.912Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:28:21.559Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:30:37.764Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:48:39.565Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1082
+      },
+      {
+        "date": "2025-04-03T15:20:31.311Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1912
+      },
+      {
+        "date": "2025-04-03T15:21:41.094Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2025-04-03T15:22:25.214Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2025-04-03T15:22:33.818Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T15:22:37.610Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T15:22:51.982Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T15:23:01.490Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T15:23:03.223Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T15:23:16.350Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T15:23:50.209Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-04-03T15:23:59.804Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T15:24:05.171Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:24:10.469Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:24:18.086Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:24:21.640Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T15:24:24.765Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T15:24:27.826Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T15:24:31.524Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T15:25:17.041Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 45
+      },
+      {
+        "date": "2025-04-03T15:25:55.249Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-04-03T15:26:20.374Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T15:26:26.366Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:34:35.589Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:34:41.187Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:35:08.358Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-03T15:35:37.214Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-03T15:35:41.920Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:36:07.172Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-03T15:36:26.887Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T06:36:26.506Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 59
+      },
+      {
+        "date": "2025-04-04T06:36:53.954Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T06:37:07.076Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T06:37:10.556Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T06:37:43.180Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-04-04T06:38:30.067Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-04-04T06:38:46.430Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T06:39:38.865Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2025-04-04T06:39:54.272Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T06:40:47.808Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 54
+      },
+      {
+        "date": "2025-04-04T06:41:08.550Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-04T06:41:25.801Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T06:42:08.916Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:47:02.439Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:47:22.690Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T06:53:51.389Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-04T06:59:11.138Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T06:59:54.421Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T06:59:59.800Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T07:05:58.868Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T07:20:56.285Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T07:21:24.562Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-04T07:22:06.446Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-04-04T07:22:57.155Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:23:54.949Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2025-04-04T07:24:25.442Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2025-04-04T07:24:27.503Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-04T07:24:42.159Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T07:24:56.032Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T07:25:52.970Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 57
+      },
+      {
+        "date": "2025-04-04T07:59:42.180Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2029
+      },
+      {
+        "date": "2025-04-04T09:27:46.180Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5284
+      },
+      {
+        "date": "2025-04-04T09:28:06.664Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T09:28:29.069Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T09:28:58.556Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-04T09:29:05.771Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T09:29:22.431Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T09:29:43.756Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-04T09:29:57.465Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T09:30:20.272Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-04T09:30:42.374Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T09:30:47.056Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T09:31:04.779Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-04-04T09:31:48.751Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2025-04-04T09:32:13.723Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-04T09:32:42.312Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-04T09:32:49.558Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T09:33:13.441Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2025-04-04T09:33:42.358Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-04T09:33:45.816Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T09:34:11.189Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-04T09:34:37.819Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T09:34:45.201Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T09:35:01.092Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T09:35:06.760Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T09:35:29.719Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-04T09:35:51.732Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T09:36:35.064Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-04-04T10:04:00.161Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T10:04:11.692Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T10:04:25.870Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T10:04:46.569Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-04T10:04:53.663Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T10:05:27.055Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-04-04T10:05:38.978Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T10:06:06.464Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T10:06:10.803Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T10:06:42.179Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2025-04-04T10:07:21.565Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-04-04T10:07:38.104Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T10:08:15.923Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T10:08:32.563Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T10:08:40.061Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T10:08:47.028Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      }
+    ],
+    "src/scss/components/_hero.scss": [
+      {
+        "date": "2025-04-03T13:57:06.355Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T14:01:25.954Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:01:33.334Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T14:01:40.126Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T14:01:51.622Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T14:02:04.381Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:02:06.842Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:02:28.376Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T14:02:28.657Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:02:31.028Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:02:36.930Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T14:05:43.440Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:06:36.491Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:06:36.978Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:07:02.415Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-03T14:07:03.993Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:07:37.469Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T14:07:37.806Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:07:44.567Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T14:07:44.881Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:07:59.393Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T14:07:59.722Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:08:15.334Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-03T14:08:15.659Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:08:27.821Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T14:08:28.129Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:08:37.578Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:08:38.365Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T14:09:54.746Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-04-03T14:09:55.058Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:10:20.193Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-03T14:10:20.482Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:10:29.406Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:10:29.717Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:10:44.172Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:10:46.658Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:10:49.037Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T14:29:31.240Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-03T14:29:31.512Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:29:46.534Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T14:29:46.834Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:30:06.051Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-03T14:30:16.802Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T15:36:46.869Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:36:53.648Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:36:54.763Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T15:36:55.093Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:37:00.834Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:37:01.110Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:43:13.239Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T15:43:17.953Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:43:18.242Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:43:24.417Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:43:41.839Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-03T15:44:12.180Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:44:12.442Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:44:32.561Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-03T15:44:39.506Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:44:39.803Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:45:08.081Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-03T15:45:28.561Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-03T15:45:28.831Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:46:27.972Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 59
+      }
+    ],
+    "src/scss/_vars.scss.git": [
+      {
+        "date": "2025-04-03T13:57:13.809Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T13:57:49.937Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T13:58:31.983Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-04-03T13:58:33.994Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T13:58:37.914Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T13:58:45.918Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T13:58:51.168Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T13:59:02.508Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T13:59:15.766Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T13:59:30.735Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T13:59:34.484Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T13:59:48.584Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:00:09.236Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-03T14:03:50.507Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2025-04-03T14:03:54.237Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T14:04:15.726Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-03T14:04:52.931Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2025-04-03T14:05:02.697Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T14:06:06.892Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T14:06:20.556Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:08:53.276Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:08:59.028Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      }
+    ],
+    "src/scss/main.scss.git": [
+      {
+        "date": "2025-04-03T14:02:43.969Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:18:55.255Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:28:50.864Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:51:28.427Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "src/scss/components/_features.scss": [
+      {
+        "date": "2025-04-03T14:18:24.360Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-03T14:18:39.384Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T14:18:39.743Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:18:47.608Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T14:19:12.071Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T14:19:34.215Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-03T14:19:34.545Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:19:39.881Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:19:49.262Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:19:49.650Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:19:56.051Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T14:19:56.920Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T14:20:21.994Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:20:22.309Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:20:36.347Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T14:20:37.046Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T14:20:52.717Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-03T14:20:56.191Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T14:20:56.540Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:21:01.219Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:21:01.513Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:21:13.754Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T14:21:22.589Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:21:23.040Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:22:44.198Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:22:44.568Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:22:56.714Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-03T14:23:15.732Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-03T14:23:16.040Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:23:22.157Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T14:23:22.438Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:23:29.871Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T14:23:30.164Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:23:57.398Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T14:24:24.446Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-03T14:24:45.605Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-03T14:25:19.814Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-04-03T14:25:20.133Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:25:31.326Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T14:25:31.608Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:25:40.138Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T14:25:40.443Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:25:45.920Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:26:24.142Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-04-03T14:26:24.462Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:26:29.657Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T14:26:44.522Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T14:26:44.839Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T14:27:07.797Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-03T14:27:08.040Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/scss/components/_policies.scss": [
+      {
+        "date": "2025-04-03T15:26:12.227Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T15:26:38.957Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:26:47.987Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T15:26:48.659Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T15:26:55.457Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-03T15:26:55.772Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:27:32.721Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2025-04-03T15:27:35.138Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T15:27:43.249Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:27:56.226Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T15:28:01.498Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:28:32.189Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2025-04-03T15:28:33.066Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-03T15:29:04.688Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:29:04.965Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:29:08.469Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-03T15:29:25.666Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-03T15:29:36.818Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-03T15:29:43.287Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:29:51.194Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:29:59.064Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:30:00.663Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-03T15:30:39.447Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-04-03T15:30:54.302Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-03T15:30:54.776Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:31:00.571Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-03T15:31:00.866Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:31:09.760Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T15:31:10.056Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:31:23.928Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-03T15:31:24.228Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:31:45.962Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-03T15:31:46.293Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:32:08.887Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-03T15:32:09.137Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:32:14.164Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-03T15:32:22.779Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-03T15:32:23.085Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:32:46.448Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-03T15:32:46.734Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:32:54.300Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-03T15:32:54.571Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:33:07.523Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T15:33:39.064Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-03T15:33:39.335Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:33:51.924Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-03T15:33:52.209Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-03T15:34:13.368Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-04-03T15:34:13.632Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T10:10:54.188Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T10:11:05.297Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T10:11:05.530Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T10:11:30.618Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      }
+    ],
+    "package.json": [
+      {
+        "date": "2025-04-04T06:11:50.501Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T06:12:46.813Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 56
+      }
+    ],
+    "src/scss/components/_reviews.scss": [
+      {
+        "date": "2025-04-04T06:42:53.037Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:43:03.742Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T06:43:15.583Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T06:43:23.290Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T06:43:30.160Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:43:37.344Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:43:37.637Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:44:20.772Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-04-04T06:44:21.147Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:44:35.343Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T06:44:41.828Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:44:54.483Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:45:01.119Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:45:07.364Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:45:13.070Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:45:35.400Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T06:45:42.860Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:45:47.863Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T06:45:51.514Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:45:54.371Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T06:45:57.374Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T06:46:40.771Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-04-04T06:47:53.615Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T06:48:03.755Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T06:48:05.238Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T06:48:06.281Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T06:48:21.016Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T06:48:48.328Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T06:48:51.913Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:49:05.157Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:50:49.850Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 105
+      },
+      {
+        "date": "2025-04-04T06:50:50.290Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:51:02.110Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T06:51:02.459Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:51:10.796Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T06:51:41.630Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:51:57.891Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T06:51:58.224Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:52:08.767Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T06:52:09.089Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:52:19.917Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T06:52:20.211Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:52:26.007Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:52:38.530Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T06:52:58.886Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T06:53:14.805Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T06:53:15.135Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:53:23.368Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T06:54:09.775Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T06:54:10.338Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T06:54:36.543Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-04-04T06:54:42.679Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:54:46.174Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:54:49.851Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T06:54:50.236Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:54:57.179Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:54:57.472Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:55:17.448Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T06:55:17.767Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:55:47.863Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2025-04-04T06:55:48.194Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:55:54.848Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T06:55:55.122Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:56:05.706Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T06:56:05.980Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:56:43.920Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T06:56:44.265Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T06:59:42.273Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T06:59:42.547Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:05:32.523Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-04-04T07:05:32.844Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:06:58.991Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T07:06:59.312Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:07:28.029Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T07:07:28.338Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:07:55.591Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T07:07:55.886Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:08:14.961Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-04T07:08:15.235Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:08:20.282Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T07:08:20.630Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:08:30.078Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T07:09:02.604Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T07:09:15.478Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T07:09:15.778Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:09:23.627Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T07:09:24.209Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T07:09:24.504Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:09:55.906Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2025-04-04T07:09:57.061Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T07:09:57.319Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:10:48.952Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2025-04-04T07:10:49.295Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:11:15.739Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-04-04T07:11:16.046Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:11:32.322Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T07:11:32.684Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:11:38.799Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:11:39.243Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:11:49.783Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T07:11:50.132Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:11:52.754Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T07:11:53.105Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:12:00.013Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T07:12:00.328Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:12:03.936Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T07:12:04.211Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:12:50.902Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-04-04T07:12:51.194Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:13:03.082Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T07:13:03.334Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:13:19.900Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T07:13:20.237Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:13:31.573Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T07:13:36.937Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T07:13:37.243Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:13:51.336Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T07:13:51.672Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:14:06.437Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T07:14:06.738Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:14:15.923Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T07:14:44.971Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-04T07:14:45.388Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:14:54.751Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T07:14:55.113Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:15:05.588Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T07:15:05.919Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:15:16.057Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T07:15:24.065Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T07:15:50.890Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-04-04T07:15:51.161Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:16:01.168Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T07:16:07.645Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:16:07.953Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:16:16.837Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T07:16:17.145Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:16:22.646Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:16:22.903Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:16:33.401Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T07:16:33.745Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:16:58.433Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-04T07:17:12.384Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T07:17:12.713Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:17:18.023Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T07:17:34.509Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T07:17:34.761Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:17:49.070Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T07:17:49.411Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:17:55.866Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:18:01.327Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-04-04T07:18:01.639Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:18:16.621Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-04-04T07:18:16.942Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:18:30.919Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T07:18:38.682Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T07:18:38.988Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:18:59.302Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T07:19:18.096Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-04T07:19:18.412Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:19:26.760Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T07:19:27.027Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:19:46.186Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-04T07:19:46.438Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:19:51.990Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:19:52.344Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:20:17.654Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-04T07:20:17.931Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:20:24.422Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T07:20:24.703Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:20:28.684Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T07:20:28.956Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T07:22:35.555Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T07:22:35.872Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T09:36:57.215Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T09:36:57.507Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T09:37:00.251Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-04-04T09:37:24.753Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-04-04T09:37:33.585Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-04-04T09:37:33.837Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T09:38:06.301Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-04T09:38:18.504Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T09:39:46.305Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 88
+      },
+      {
+        "date": "2025-04-04T10:24:51.017Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-04-04T10:24:51.274Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-04-04T10:24:59.380Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-04T10:25:55.334Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 56
+      },
+      {
+        "date": "2025-04-04T10:27:17.888Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 83
+      },
+      {
+        "date": "2025-04-04T10:28:24.337Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2025-04-04T10:29:52.956Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 89
+      },
+      {
+        "date": "2025-04-04T10:30:05.048Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-04-04T10:31:15.425Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2025-04-04T14:02:29.271Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12674
+      },
+      {
+        "date": "2025-04-04T14:03:40.502Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 71
+      },
+      {
+        "date": "2025-04-04T14:04:59.426Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 79
+      },
+      {
+        "date": "2025-04-04T14:05:41.403Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 42
+      }
+    ],
+    "src/scss/vendor.scss.git": [
+      {
+        "date": "2025-04-04T06:59:27.537Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      }
+    ],
+    "package.json.git": [
+      {
+        "date": "2025-04-04T10:12:29.709Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-04T10:13:46.349Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 77
+      },
+      {
+        "date": "2025-04-04T10:24:18.738Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 632
+      },
+      {
+        "date": "2025-04-04T10:24:22.729Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "app/index.html": [
+      {
+        "date": "2025-04-04T14:07:26.981Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T14:11:04.325Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-04T14:11:32.812Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-04-04T14:12:10.909Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-04-04T14:25:53.973Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-04-04T14:26:14.119Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T14:27:01.500Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-04-04T14:43:19.115Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 978
+      },
+      {
+        "date": "2025-04-04T14:43:48.855Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2025-04-04T14:44:06.118Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T14:44:17.582Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T14:44:34.521Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T14:45:08.956Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-04-04T14:45:55.492Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-04-04T14:47:03.588Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 68
+      },
+      {
+        "date": "2025-04-04T14:48:00.083Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 57
+      },
+      {
+        "date": "2025-04-04T14:48:44.484Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2025-04-04T14:55:07.899Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 383
+      },
+      {
+        "date": "2025-04-04T14:56:19.486Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 72
+      },
+      {
+        "date": "2025-04-04T14:58:01.296Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 102
+      },
+      {
+        "date": "2025-04-04T14:59:12.475Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 71
+      },
+      {
+        "date": "2025-04-04T15:02:21.049Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 189
+      },
+      {
+        "date": "2025-04-04T15:03:31.489Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2025-04-04T15:05:07.966Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 96
+      },
+      {
+        "date": "2025-04-04T15:06:17.476Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2025-04-04T15:10:46.914Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 269
+      },
+      {
+        "date": "2025-04-04T15:11:52.550Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2025-04-04T15:12:55.663Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2025-04-04T15:14:34.478Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 99
+      },
+      {
+        "date": "2025-04-04T15:14:40.076Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T15:15:23.508Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2025-04-04T15:16:21.469Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2025-04-04T15:21:45.279Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 324
+      },
+      {
+        "date": "2025-04-04T15:21:56.248Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-04T15:22:28.513Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-04-04T15:22:47.672Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-04-04T15:23:05.098Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T15:23:33.977Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-04-04T15:24:12.835Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-04-04T15:24:36.040Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-04T15:25:02.352Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-04-04T15:25:24.043Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-04-04T15:25:59.864Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2025-04-04T15:26:06.755Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-04-04T15:26:20.939Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-04-04T15:26:37.514Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-04-04T15:26:57.335Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-04-04T15:27:03.445Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-04-04T15:27:39.642Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2025-04-04T15:28:21.417Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-04-04T15:29:23.622Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2025-04-04T15:30:22.442Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 59
+      },
+      {
+        "date": "2025-04-04T15:40:55.511Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 633
+      },
+      {
+        "date": "2025-04-04T15:42:07.405Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 72
+      }
+    ],
+    "app/css/main.css": [
+      {
+        "date": "2025-04-04T14:09:31.754Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T14:09:44.199Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 12
+      }
+    ],
+    "app/css/vendor.css": [
+      {
+        "date": "2025-04-04T14:09:57.492Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-04-04T14:10:20.745Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-04-04T14:10:29.339Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 9
+      }
+    ],
+    "app/js/main.js": [
+      {
+        "date": "2025-04-04T14:12:22.953Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-04-04T14:12:39.221Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-04-04T14:13:32.500Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2025-04-04T14:13:45.101Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-04-04T14:14:55.508Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 70
+      }
+    ],
+    "README.md.git": [
+      {
+        "date": "2025-04-05T15:14:52.127Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-05T15:15:00.171Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-04-05T15:17:01.974Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 122
+      },
+      {
+        "date": "2025-04-05T15:17:12.509Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-04-05T15:17:36.601Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2025-04-05T15:18:30.977Z",
+        "user": {
+          "name": "Artem Frolov",
+          "email": "fa92@live.ru"
+        },
+        "timeSpent": 54
+      }
+    ]
+  }
+}
